@@ -1,0 +1,56 @@
+Nom du programme : G-MindMap
+Version          : 0.2
+Crée le          : 1er Août 2000
+Par              : C.Dutoit (dutoitc@hotmail.com)
+Téléchargeable sur:http://www.home.ch/~spaw4758
+
+
+Bugs connus :
+-------------
+Dessiner 2 fois le mindmap pour que toutes les lignes apparaissent
+Impression : à revoir entièrement !
+à vérifier : suppression d'un noeud ayant des fils
+
+
+Version 0.1 : (1-2 Août 2000)
+-------------
+Création du projet : frmMap, frmMDI, modMap, lisez-moi.txt.
+Création de l'interface
+Création de la structure de donnée
+Création du moteur graphique
+
+
+Version 0.2 : (2-3 Août 2000)
+-------------
+Modification de la structure de donnée
+Ajout de la fonction de recherche de noeud par coordonnée
+Ajout de la possibilité de créer des noeuds-fils
+Ajout de la boîte de dialogue "à propos de..."
+Ajout de modES : gestion des entrées-sorties
+suppression d'un noeud
+Chargement et enregistrement d'un arbre
+impression sommaire
+
+
+Version 0.3 : (3-7 Août 2000)
+-------------
+Ajout de modImpression : Impression d'un mindmap + options d'impression + ...
+Exportation au format texte (pour ré-importation dans MindMapper Plus ou compatible
+Importation de fichier texte
+Ajout de toolbars (2 icônes à ajouter par la suite)
+Ajout de l'aide
+Autre rendu graphique : suppression des O, sauf pour la racine, écriture du texte sur les branches, en penché !
+
+
+TODO :
+------
+x derniers fichiers ouvert
+Impression selon nouveau moteur graphique !
+Possibilité de déplacer les noeuds
+Amélioration de l'impression
+Type de mindmap personalisable
+Tailles personalisables
+Aide contextuelle;
+Aide : ajout de 'terminologie' + images
+Mises à jour en ligne
+Gestion des erreurs
